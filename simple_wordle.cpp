@@ -1,5 +1,3 @@
-// Cansýn Narþahin
-
 #include <iostream>
 #include <string>
 #include <fstream>
